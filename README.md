@@ -1,7 +1,6 @@
 # Intelligent-Robot-Studio
 
-The Arduino Robot Project, a versatile set of Arduino code and hardware configurations for creating autonomous, line-following, obstacle-avoidance, object detection, and path-planning robots. This comprehensive project includes multiple code files, each tailored to specific robot functionalities. Whether you're a beginner or an experienced maker, you'll find valuable insights into robotics and Arduino programming.
-
+The Arduino Robot Project, a versatile set of Arduino code and hardware configurations for creating autonomous, line-following, obstacle-avoidance, object detection, and path-planning robots. This comprehensive project includes multiple code files, each tailored to specific robot functionalities.
 ## Table of Contents
 
 - [Introduction](#introduction)
